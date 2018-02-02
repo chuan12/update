@@ -33,7 +33,7 @@ https://git.io/vQjqe
 
 安卓app最新内部测试版（2018020201 更新）：
 
-SzzdOgate V3.7  for 安卓4.1+（手机版）
+SzzdOgate V3.7  for 安卓4.0+（手机版）
 http://jmp.sh/iAK2ZBn
 
 
