@@ -31,17 +31,17 @@ https://github.com/SzzdOgate/update/raw/master/extras/SzzdOgate.apk
 
 https://git.io/vQjqe
 
-安卓app最新内部测试版（2018020209 更新）：
-更新了程序，解决一款5.1.1机顶盒运行闪退问题。相应整体做了更新。    
-
-
+安卓app最新内部测试版更新（2018022201）：
+1、修复个别情况下存在的异常；
+2、对无效源（如真相视音频的节目）的情况下使用的通道進行了优化和控制。
+3、其它小的更新。
+更新历史：2018020209更新了程序，解决源子成测试的一款5.1.1机顶盒运行闪退问题。相应整体做了更新。 
+   
 测试反馈：TV版适合4.1+的Android智能电视和机顶盒。某地联通、电信、移动网络都效果不错，这几天中国频道打不开，其他还可以，播放也流畅，机顶盒，安卓4.4，5.1.，6.0系统的，均播放流畅，特别是真相视频部分，连续看几个小时也不卡。
 
 TCL 55C2US 电视 安卓版本是：6.0.1，测试播放成功。微鲸的55寸的电视也有成功的一个型号。
 已经在多个机顶盒型号，包括先科M11，V8，先科Q7，华为M321上都成功使用了。4.42版本的中国移动机顶盒直播、音频、视频全部播放成功。中国移动线路，机顶盒迪优美特X6II 八核CPU【4G+32G】安装成功。
- 
- 通知：中国新年期间按新唐人电视台通知“中国频道”暂时更换为“亚太频道”   https://tiandixing.org/viewtopic.php?p=1402650#p1402650
-
+    
 SzzdOgate V3.7  for 安卓4.0+（手机版）
 http://jmp.sh/iAK2ZBn
 
@@ -49,8 +49,8 @@ SzzdOgateTV V1.0  for 安卓4.1+（电视机顶盒版）
 http://jmp.sh/NiPo0db
 
 最新内部测试版Sha512分别是：
-[code]EFEC9FB9FFAA49F5B9DB3D0E67D6C7A4DA26DB0E3018D66DCD3D3858A444727B0BDE5D1D914C55F09744879BFB9FA7D5EFC21C3FEB36603208F323FAE8A9194A  SzzdOgate_V3.7.apk
-4BF5BECF21D39B29128EB552E35A58B1AE4595106B4653A3BE229611C39F5F5C15303D7E4113F4F8E86BBBFF1D668B26D253702974FB55E0D951015A8D7A48F8  SzzdOgateTV_V1.0.apk
+[code]45DAA6336AC43A80CE0E1DF2B736D0484F5A33B80ED14951B334CF7406DF7B710430D5C596E62202DF5784DE73619AB809545C601DB378E53B408DB7BE1FD3E5  SzzdOgate_V3.7.apk
+23BD602ED91AE04A0268FBBCCF5D1A24E2DA61B1D9DBE3383B19A42198D4DA4045976283B3381CE5624E09F33963AD33FB35465C571608BA6CD52067F9FCD1D5  SzzdOgateTV_V1.0.apk
 [/code]
 
 专用的包名修改器及使用说明已经发到Jum上了：
