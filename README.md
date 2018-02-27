@@ -23,6 +23,7 @@ App能够检测到新版本并提示，确认后自动后台下载并校验，�
 当App自身不能够突破网络封锁时，可以借助安卓一点通或者无界的VPN代理破网，获取资源更新及App的更新。
 
 二、手机程序下载
+
 安卓app正式稳定版：
 
 SzzdOgate V3.6 for 安卓2.3+（手机版）
@@ -32,14 +33,18 @@ https://github.com/SzzdOgate/update/raw/master/extras/SzzdOgate.apk
 https://git.io/vQjqe
 
 三、安卓app最新内部测试版更新
+
 [b]最新内部测试版：[/b]
+
   [b]（一）、SzzdOgate、SzzdOgateTV 更新（2018022601）：[/b]
+  
 1、添加了直播节目当前频道和分辨率的记忆；
 2、直播界面，是TV的情况下，点击（即：按下遥控器中间的大的圆的确认按钮）频道则播放此频道对应的分辨率最高的节目；
 3、更新video.json的结构为最新的状态，对程序对应部分的显示界面也做了相应调整，TV版音频改为带图片的了;
 4、TV版直播节目单位置跟时间同步显示。
 
 更新历史（2018022201）：
+
 1、修复个别情况下存在的异常；
 2、对无效源（如真相视音频的节目）的情况下使用的通道進行了优化和控制。
 3、其它小的更新。
@@ -64,11 +69,15 @@ http://jmp.sh/NiPo0db
 
 
 [b]（二）专用的包名修改器及使用说明已经发到Jum上了：[/b]
+
 RepackageTool更新（2018022601）
+
 RepackageTool.rar
 http://jmp.sh/8LVZ434
+
 Readme.txt
 http://jmp.sh/S4I7U7q
+
 [code]
 0A67453F9D7B63A47E23F23D51843961CA501143E65243965377D310F86F68D78B3D7C5100A8691BD2E8F06BCB33489E5966C6DD5F7A8A5D87B6AB303F99621E  readme.txt
 4495B2EE73BA17E5D2876292EA21C9942B088E35765F9D0657A32727EE10C5D19B2A55B563877BC6FDEDE97FC1695B21BC25CEDF7C4C47FF70FC524A562A39D5  RepackageTool.rar
