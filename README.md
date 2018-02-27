@@ -1,6 +1,6 @@
 SzzdOgate（神州正道·网门for Android)
 
-程序功能：
+一、程序功能：
 神州正道·网门后台使用了动态的防止封锁的技术，具良好的抗封锁能力，这在长期的使用过程中也得到了验证。
 本程序是基于神州正道技术支持的集浏览、保存、截屏和分享的工具集合。目的是帮助世人突破网络封锁、了解真相。
 其主要特点如下：
@@ -22,7 +22,7 @@ SzzdOgate（神州正道·网门for Android)
 App能够检测到新版本并提示，确认后自动后台下载并校验，然后自动更新。
 当App自身不能够突破网络封锁时，可以借助安卓一点通或者无界的VPN代理破网，获取资源更新及App的更新。
 
-手机程序下载
+二、手机程序下载
 安卓app正式稳定版：
 
 SzzdOgate V3.6 for 安卓2.3+（手机版）
@@ -31,12 +31,20 @@ https://github.com/SzzdOgate/update/raw/master/extras/SzzdOgate.apk
 
 https://git.io/vQjqe
 
-安卓app最新内部测试版更新（2018022201）：
+三、安卓app最新内部测试版更新
+[b]最新内部测试版：[/b]
+  [b]（一）、SzzdOgate、SzzdOgateTV 更新（2018022601）：[/b]
+1、添加了直播节目当前频道和分辨率的记忆；
+2、直播界面，是TV的情况下，点击（即：按下遥控器中间的大的圆的确认按钮）频道则播放此频道对应的分辨率最高的节目；
+3、更新video.json的结构为最新的状态，对程序对应部分的显示界面也做了相应调整，TV版音频改为带图片的了;
+4、TV版直播节目单位置跟时间同步显示。
+
+更新历史（2018022201）：
 1、修复个别情况下存在的异常；
-2、对通道進行了优化和控制；
+2、对无效源（如真相视音频的节目）的情况下使用的通道進行了优化和控制。
 3、其它小的更新。
-更新历史：2018020209更新了程序，解决一款5.1.1机顶盒运行闪退问题。相应整体做了更新。 
-   
+2018020209更新了程序，解决测试的一款5.1.1机顶盒运行闪退问题。相应整体做了更新。 
+
 测试反馈：TV版适合4.1+的Android智能电视和机顶盒。某地联通、电信、移动网络都效果不错，这几天中国频道打不开，其他还可以，播放也流畅，机顶盒，安卓4.4，5.1.，6.0系统的，均播放流畅，特别是真相视频部分，连续看几个小时也不卡。
 
 TCL 55C2US 电视 安卓版本是：6.0.1，测试播放成功。微鲸的55寸的电视也有成功的一个型号。
@@ -49,16 +57,22 @@ SzzdOgateTV V1.0  for 安卓4.1+（电视机顶盒版）
 http://jmp.sh/NiPo0db
 
 最新内部测试版Sha512分别是：
-[code]45DAA6336AC43A80CE0E1DF2B736D0484F5A33B80ED14951B334CF7406DF7B710430D5C596E62202DF5784DE73619AB809545C601DB378E53B408DB7BE1FD3E5  SzzdOgate_V3.7.apk
-23BD602ED91AE04A0268FBBCCF5D1A24E2DA61B1D9DBE3383B19A42198D4DA4045976283B3381CE5624E09F33963AD33FB35465C571608BA6CD52067F9FCD1D5  SzzdOgateTV_V1.0.apk
+[code]
+94E25D334B748E1C407A01CD5DA481340548B55B4F8856B01FA964E9271C91A6D4D0A17BD09345CBB7BE8D1CBACECC48B338E64A6FE81EAB3404646C4B406A76  SzzdOgate_V3.7.apk
+361BC060FAC072EA47315228479E0D63A2DAE06A209E7ECBC9178E54EF3B608C5E4B30303B805BA7B25B0257B068DB09EC081504AF5661DD87D17D2A27120F04  SzzdOgateTV_V1.0.apk
 [/code]
 
-专用的包名修改器及使用说明已经发到Jum上了：
+
+[b]（二）专用的包名修改器及使用说明已经发到Jum上了：[/b]
+RepackageTool更新（2018022601）
 RepackageTool.rar
 http://jmp.sh/8LVZ434
 Readme.txt
 http://jmp.sh/S4I7U7q
-
+[code]
+0A67453F9D7B63A47E23F23D51843961CA501143E65243965377D310F86F68D78B3D7C5100A8691BD2E8F06BCB33489E5966C6DD5F7A8A5D87B6AB303F99621E  readme.txt
+4495B2EE73BA17E5D2876292EA21C9942B088E35765F9D0657A32727EE10C5D19B2A55B563877BC6FDEDE97FC1695B21BC25CEDF7C4C47FF70FC524A562A39D5  RepackageTool.rar
+[/code]
 
 
 ios版开发中。
