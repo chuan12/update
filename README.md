@@ -25,20 +25,27 @@ App能够检测到新版本并提示，确认后自动后台下载并校验，�
 二、手机程序下载
 
 [b]一、目前最新的版本在这里（2018022801）（请破网访问）[/b]：
+
 SzzdOgate V3.7  for 安卓4.0+（手机版）：
 https://git.io/vQjqe
 TV V1.0 for 安卓4.1+（电视机顶盒版）：
 https://git.io/vAonz
+
 sha512校验及更新说明：
+
 https://github.com/SzzdOgate/update
+
 https://github.com/SzzdOgate/update/blob/master/extras/update.json
+
 1、优化通道管理，更持续的翻墙能力。
 2、修改或增添了TV版二维码；
 3、其它等。
+
 [code]C0C0283F11E57800B3FA488D4A14D61E6E1C532CB1B6087C0B3C23BE66062193F3C1A8443D38D03F8635EF05298455286D03E047998A0CDC7BA600E0104F7222  SzzdOgate_V3.7.apk
 6A86A70D572537E79F8453B5B65579EE1F7186F5CF6DFDF1D4CD362E14AF01121B27C13FC9F06EC46C9B3FED90661FAC3BC6D4D639AAA43D675548D55D25341D  SzzdOgateTV_V1.0.apk[/code]
 
 [b]二、测试更新历史：[/b]
+
   [b]（一）、SzzdOgate、SzzdOgateTV测试版更新（2018022601）：[/b]
 
 1、添加了直播节目当前频道和分辨率的记忆；
