@@ -28,6 +28,7 @@ App能够检测到新版本并提示，确认后自动后台下载并校验，�
 
 SzzdOgate V3.7  for 安卓4.0+（手机版）：
 https://git.io/vQjqe
+
 TV V1.0 for 安卓4.1+（电视机顶盒版）：
 https://git.io/vAonz
 
