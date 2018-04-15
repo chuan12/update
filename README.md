@@ -1,3 +1,5 @@
+本页固定网址： https://git.io/szzd
+
 SzzdOgate（神州正道·网门for Android)
 
 一、程序功能：
